@@ -92,6 +92,7 @@
     </div>
     <!-- END : BREADCRUMB -->
 
+    <!-- START : SECTION ONE  -->
     <section class="pt-5 pb-5">
         <div class="container">
             <div class="row">
@@ -191,6 +192,7 @@
             </div>
         </div>
     </section>
+    <!-- END : SECTION ONE -->
 
     <!-- START : FOOTER  -->
     <footer class="background-primary text-white text-lg-start">

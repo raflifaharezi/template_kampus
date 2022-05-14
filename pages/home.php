@@ -72,7 +72,7 @@
     <!-- END : NAVIGATION  -->
 
     <!-- START : SECTION ONE  -->
-    <section class="img-bg d-flex align-items-center">
+    <section class="img-bg d-flex align-items-center" style="margin-top: 80px !important;">
         <div class="container">
             <!-- <div class="position-absolute" style="top: 0;"> -->
             <div class="fs-5 text-white fw-bold">Selamat Datang di</div>

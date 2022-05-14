@@ -115,7 +115,7 @@
                                 class="nav-link text-dark border-bottom pt-3 pb-3">Keunggulan</a>
                         </div>
                         <div class="nav-item">
-                            <a href="profli_struktur_organisasi.php"
+                            <a href="profil_struktur_organisasi.php"
                                 class="nav-link text-dark border-bottom pt-3 pb-3">Struktur Organisasi</a>
                         </div>
                     </nav>

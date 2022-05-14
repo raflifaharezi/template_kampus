@@ -125,11 +125,15 @@
                     </h1>
                     <div class="main-content d-flex justify-content-start ">
                         <ul>
-                            <li class="text-navy">Rektor = Dr. dr. Sukadiono, MM</li>
-                            <li class="text-navy">Wakil Rektor 1 = Dr. M. Ridwan M. Pd</li>
-                            <li class="text-navy">Wakil Rektor 2 = Dr. Endah Hendarwati, S.E., M.Pd</li>
-                            <li class="text-navy">Wakil Rektor 3 = Ma'ruf Sya'ban, ST., SE., M.AK</li>
-                            <li class="text-navy">Wakil Rektor 4 = Dr. Mundakir, S.Kep., M.Kep,. Ns</li>
+                            <li class="text-navy"><span class="text-dark">Rektor = Dr. dr. Sukadiono, MM</span></li>
+                            <li class="text-navy"><span class="text-dark">Wakil Rektor 1 = Dr. M. Ridwan M. Pd</span>
+                            </li>
+                            <li class="text-navy"><span class="text-dark">Wakil Rektor 2 = Dr. Endah Hendarwati, S.E.,
+                                    M.Pd</span></li>
+                            <li class="text-navy"><span class="text-dark">Wakil Rektor 3 = Ma'ruf Sya'ban, ST., SE.,
+                                    M.AK</span></li>
+                            <li class="text-navy"><span class="text-dark">Wakil Rektor 4 = Dr. Mundakir, S.Kep., M.Kep,.
+                                    Ns</span></li>
                         </ul>
                     </div>
                 </div>
