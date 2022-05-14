@@ -9,31 +9,35 @@
     <link rel="stylesheet" href="../css/home-style.css">
     <link rel="stylesheet" href="../css/color.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <title>Beranda | Universitas Muhamadiyah Surabaya</title>
 </head>
 
 <body>
     <!-- START NAVIGATION  -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-navbar pt-2 pb-2 background-primary">
+    <nav class="navbar navbar-expand-lg navbar-light pt-2 pb-2 background-primary fixed-top mb-5">
         <div class="container">
             <a class="navbar-brand" href="#"><img src="../image/logo-um-surabaya.png" class="img-fluid" alt=""></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto ">
                     <li class="nav-item text-white">
-                        <a class="nav-link active text-white" aria-current="page" href="#">Beranda</a>
+                        <a class="nav-link active text-white" aria-current="page" href="home.php">Beranda</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link text-white dropdown-toggle" id="navDropdownProfil" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="#">Profil</a>
+                        <a class="nav-link text-white dropdown-toggle" id="navDropdownProfil" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false" href="#">Profil</a>
                         <ul class="dropdown-menu" aria-labelledby="navDropdownProfil">
-                            <li><a class="dropdown-item" href="#">Sejarah</a></li>
-                            <li><a class="dropdown-item" href="#">Visi dan Misi</a></li>
-                            <li><a class="dropdown-item" href="#">Tujuan</a></li>
-                            <li><a class="dropdown-item" href="#">Keunggulan</a></li>
-                            <li><a class="dropdown-item" href="#">Struktur Organisasi</a></li>
+                            <li><a class="dropdown-item" href="profil_sejarah.php">Sejarah</a></li>
+                            <li><a class="dropdown-item" href="profil_visi_misi.php">Visi dan Misi</a></li>
+                            <li><a class="dropdown-item" href="profil_tujuan.php">Tujuan</a></li>
+                            <li><a class="dropdown-item" href="profil_keunggulan.php">Keunggulan</a></li>
+                            <li><a class="dropdown-item" href="profil_struktur_organisasi.php">Struktur Organisasi</a>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item ">
@@ -43,8 +47,9 @@
                         <a class="nav-link text-white" href="#">Biaya Kuliah</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link text-white dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                          Informasi
+                        <a class="nav-link text-white dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Informasi
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="#">Penerimaan / Pendaftaran <br> Mahasiswa Baru</a></li>
@@ -84,11 +89,12 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card border-0" style="height: 200px;">
-                        <h5 class="card-title text-white bg-navy text-center fw-bold pt-3 pb-3">Info PMB</h5>
+                        <h1 class="card-title text-white bg-navy text-center heading-title pt-3 pb-3">Info PMB</h1>
                         <div class="card-body pt-2">
                             <div class="d-flex justify-content-start align-items-center mb-1">
                                 <i class="fa-solid fa-caret-right text-navy me-3"></i>
-                                <a href="#" class="text-decoration-none text-dark">Penerimaan / Pendaftaran Mahasiswa Baru</a>
+                                <a href="#" class="text-decoration-none text-dark">Penerimaan / Pendaftaran Mahasiswa
+                                    Baru</a>
                             </div>
                             <div class="d-flex justify-content-start align-items-center">
                                 <i class="fa-solid fa-caret-right text-navy me-3"></i>
@@ -99,7 +105,9 @@
                 </div>
                 <div class="col-md-4 mt-3 mt-md-0">
                     <div class="card border-0" style="height: 200px;">
-                        <h5 class="card-title text-white background-primary text-center fw-bold pt-3 pb-3">Info Akademik</h5>
+                        <h1 class="card-title text-white background-primary text-center heading-title pt-3 pb-3">Info
+                            Akademik
+                        </h1>
                         <div class="card-body pt-2">
                             <div class="d-flex justify-content-start align-items-center mb-1">
                                 <i class="fa-solid fa-caret-right text-navy me-3"></i>
@@ -114,7 +122,8 @@
                 </div>
                 <div class="col-md-4 mt-3 mt-md-0">
                     <div class="card border-0" style="height: 200px;">
-                        <h5 class="card-title text-white bg-danger text-center fw-bold pt-3 pb-3">Info Akademik</h5>
+                        <h1 class="card-title text-white bg-danger text-center heading-title pt-3 pb-3">Info Akademik
+                        </h1>
                         <div class="card-body pt-2 " style="height: '120px;'">
                             <div class="d-flex justify-content-start align-items-center mb-1">
                                 <i class="fa-solid fa-caret-right text-navy me-3"></i>
@@ -136,7 +145,7 @@
         <div class="container">
             <div class="d-flex align-items-center">
                 <img src="../image/icon-toga.svg" alt="">
-                <h1 class="heading-title ms-3">Program Studi</h1>
+                <div class="heading-title ms-3">Program Studi</div>
             </div>
             <div class="row mt-5">
                 <div class="col-md-3 ">
@@ -177,7 +186,8 @@
                     </div>
                 </div>
             </div>
-            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white btn-sm mt-4">Lihat Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
+            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white btn-sm mt-4">Lihat
+                Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
         </div>
     </section>
     <!-- END : SECTION THEREE  -->
@@ -204,7 +214,10 @@
                 <div class="col-md-8 mt-3 mt-md-0 ">
                     <div class="container bg-light pt-4 pb-4">
                         <div class="fs-2 text-navy fw-bolder">Pendaftaran / Penerimaan Mahasiswa Baru</div>
-                        <div class="mt-3 mb-2"><strong>Jadwal PMB (Penerimaan/Pendaftaran Mahasiswa Baru)</strong> Program Kuliah Karyawan, Kuliah Online / Daring / Blended, dan Program Kelas Malam di <strong>Universitas Muhamadiyah Surabaya</strong> seperti berikut ini</div>
+                        <div class="mt-3 mb-2"><strong>Jadwal PMB (Penerimaan/Pendaftaran Mahasiswa Baru)</strong>
+                            Program Kuliah Karyawan, Kuliah Online / Daring / Blended, dan Program Kelas Malam di
+                            <strong>Universitas Muhamadiyah Surabaya</strong> seperti berikut ini
+                        </div>
                         <div>Gelombang I = 1 Maret - 3 Mei 2022</div>
                         <div class="text-danger fw-bolder">Gelombang II = 4 Mei - 5 Juli 2022</div>
                         <div>Gelombang III = 6 Juli - 11 September 2022</div>
@@ -221,9 +234,9 @@
     <!-- START : SECTION FIVE  -->
     <section class="pt-5 pb-5">
         <div class="container">
-            <div class="d-flex align-items-center">
+            <div class="d-flex  align-items-stretch">
                 <img src="../image/icon-news.svg" alt="">
-                <h1 class="heading-title ms-3">Informasi</h1>
+                <div class="heading-title ms-3">Informasi</div>
             </div>
             <div class="row mt-5">
                 <div class="col-md-3">
@@ -231,7 +244,9 @@
                         <img src="../image/img-solusi-cerdas.jpg" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <div class="card-title" style="color: #727272; font-weight: 500;">20 April 2022</div>
-                            <p class="card-text" style="text-align: justify;"><strong>Solusi Cerdas</strong> Bagi yang <strong>BELUM BEKERJA</strong> , mengikuti Program Kuliah Karyawan dan Kelas Malam... </p>
+                            <p class="card-text" style="text-align: justify;"><strong>Solusi Cerdas</strong> Bagi yang
+                                <strong>BELUM BEKERJA</strong> , mengikuti Program Kuliah Karyawan dan Kelas Malam...
+                            </p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <a href="#" class="text-decoration-none text-navy">Selengkapnya</a>
                                 <i class="fa-solid fa-arrow-right ms-3"></i>
@@ -244,7 +259,9 @@
                         <img src="../image/img-pendaftaran.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <div class="card-title" style="color: #727272; font-weight: 500;">14 Maret 2022</div>
-                            <p class="card-text" style="text-align: justify;">Daftar di bawah ini adalah <strong>Angkutan/kendaraan umum (beserta jalur) dan stasiun kereta</strong></p>
+                            <p class="card-text" style="text-align: justify;">Daftar di bawah ini adalah
+                                <strong>Angkutan/kendaraan umum (beserta jalur) dan stasiun kereta</strong>
+                            </p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <a href="#" class="text-decoration-none text-navy">Selengkapnya</a>
                                 <i class="fa-solid fa-arrow-right ms-3"></i>
@@ -257,7 +274,8 @@
                         <img src="../image/img-transportasi.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <div class="card-title" style="color: #727272; font-weight: 500;">10 Maret 2022</div>
-                            <p class="card-text" style="text-align: justify;"><strong>Penerimaan/Pendaftaran</strong> Mahasiswa Baru, Program Kuliah Karyawan, Perkuliahan Online...</p>
+                            <p class="card-text" style="text-align: justify;"><strong>Penerimaan/Pendaftaran</strong>
+                                Mahasiswa Baru, Program Kuliah Karyawan, Perkuliahan Online...</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <a href="#" class="text-decoration-none text-navy">Selengkapnya</a>
                                 <i class="fa-solid fa-arrow-right ms-3"></i>
@@ -270,7 +288,9 @@
                         <img src="../image/img-waktu-kuliah.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
                             <div class="card-title" style="color: #727272; font-weight: 500;">10 Februari 2022</div>
-                            <p class="card-text " style="text-align: justify;"><strong>Waktu Kuliah</strong> ( Jadwal Kuliah ) dan <strong>Daftar Dosen</strong> ( Tenaga Pengajar ) di Universitas Muhamadiyah Surabaya...</p>
+                            <p class="card-text " style="text-align: justify;"><strong>Waktu Kuliah</strong> ( Jadwal
+                                Kuliah ) dan <strong>Daftar Dosen</strong> ( Tenaga Pengajar ) di Universitas
+                                Muhamadiyah Surabaya...</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <a href="#" class="text-decoration-none text-navy">Selengkapnya</a>
                                 <i class="fa-solid fa-arrow-right ms-3"></i>
@@ -313,7 +333,8 @@
                     </div>
                 </div>
             </div>
-            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white btn-sm mt-4">Lihat Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
+            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white btn-sm mt-4">Lihat
+                Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
         </div>
     </section>
     <!-- END : SECTION SIX  -->
@@ -339,7 +360,8 @@
                     </div>
                     <div class="row align-items-center mt-3">
                         <div class="col-md-6 ">
-                            <a href="http://gillandgroup.co.id/_khusus_p2k.php?_i=pendaftaran-online&asal_kontak=www.um-surabaya.web.id" target="_blank">
+                            <a href="http://gillandgroup.co.id/_khusus_p2k.php?_i=pendaftaran-online&asal_kontak=www.um-surabaya.web.id"
+                                target="_blank">
                                 <img src="../image/icon-regis.svg" alt="" class="img-fluid">
                             </a>
                         </div>
@@ -356,25 +378,29 @@
                     </div>
                     <div class="row align-items-center mt-3">
                         <div class="col-md-6">
-                            <a href="https://api.whatsapp.com/send?phone=6281295262009&text=Hi%20Admin%20Program%20Perkuliahan%20Karyawan,%20saya%20ingin%20tanya%20" target="_blank" class="align-items-center text-decoration-none d-flex">
+                            <a href="https://api.whatsapp.com/send?phone=6281295262009&text=Hi%20Admin%20Program%20Perkuliahan%20Karyawan,%20saya%20ingin%20tanya%20"
+                                target="_blank" class="align-items-center text-decoration-none d-flex">
                                 <img src="../image/icon-whatsapp.svg" alt="" class="img-fluid me-2">
                                 <span class="text-dark">0812 9526 2009</span>
                             </a>
                         </div>
                         <div class="col-md-6 mt-3 mt-md-0">
-                            <a href="https://www.facebook.com/KuliahKaryawan.FanPage" target="_blank" class="align-items-center text-decoration-none d-flex">
+                            <a href="https://www.facebook.com/KuliahKaryawan.FanPage" target="_blank"
+                                class="align-items-center text-decoration-none d-flex">
                                 <img src="../image/icon-facebook.svg" alt="" class="img-fluid me-2">
                                 <span class="text-dark">Kuliah Karyawan</span>
                             </a>
                         </div>
                         <div class="col-md-6 mt-3">
-                            <a href="https://plus.google.com/u/1/115573353743720115885/posts" target="_blank" class="align-items-center text-decoration-none d-flex">
+                            <a href="https://plus.google.com/u/1/115573353743720115885/posts" target="_blank"
+                                class="align-items-center text-decoration-none d-flex">
                                 <img src="../image/icon-google-plus.svg" alt="" class="img-fluid me-2">
                                 <span class="text-dark">Kuliah Karyawan</span>
                             </a>
                         </div>
                         <div class="col-md-6 mt-3">
-                            <a href="https://twitter.com/kuliahkaryawan" target="_blank" class="align-items-center text-decoration-none d-flex">
+                            <a href="https://twitter.com/kuliahkaryawan" target="_blank"
+                                class="align-items-center text-decoration-none d-flex">
                                 <img src="../image/icon-twitter.svg" alt="" class="img-fluid me-2">
                                 <span class="text-dark">Kuliah Karyawan</span>
                             </a>
@@ -404,7 +430,8 @@
                             </a>
                         </li>
                         <li class="mt-2">
-                            <a href="https://api.whatsapp.com/send?phone=6281295262009&text=Hi%20Admin%20Program%20Perkuliahan%20Karyawan,%20saya%20ingin%20tanya%20" target="_blank" class="text-white text-decoration-none mt-3">
+                            <a href="https://api.whatsapp.com/send?phone=6281295262009&text=Hi%20Admin%20Program%20Perkuliahan%20Karyawan,%20saya%20ingin%20tanya%20"
+                                target="_blank" class="text-white text-decoration-none mt-3">
                                 <i class="fa-brands text-warning fa-whatsapp me-2"></i>
                                 <Span>081295262009</Span>
                             </a>
@@ -422,19 +449,24 @@
                     <h5 class="fs-5 fw-bolder">Links</h5>
                     <ul class="list-unstyled">
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Beranda</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Beranda</Span></a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Program Studi</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Program Studi</Span></a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Biaya Kuliah</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Biaya Kuliah</Span></a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Galeri</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Galeri</Span></a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Kontak</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Kontak</Span></a>
                         </li>
                     </ul>
                 </div>
@@ -442,23 +474,28 @@
                     <h5 class="fs-5 fw-bolder">Informasi</h5>
                     <ul class="list-unstyled mb-0">
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Pendaftaran / Registrasi</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Pendaftaran / Registrasi</Span></a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Biaya Pendaftaran</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Biaya Pendaftaran</Span></a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Sistem Perkuliahan</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Sistem Perkuliahan</Span></a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white text-decoration-none"><i class="fa-solid me-2 fa-angle-right"></i><Span>Beasiswa Pendidikan</Span></a>
+                            <a href="#!" class="text-white text-decoration-none"><i
+                                    class="fa-solid me-2 fa-angle-right"></i><Span>Beasiswa Pendidikan</Span></a>
                         </li>
                     </ul>
                 </div>
 
                 <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
                     <h5 class="fs-5 fw-bolder mb-0">Lokasi Kampus</h5>
-                    <a href="https://www.google.com/maps/d/u/0/viewer?msa=0&ll=-7.258062007495857%2C112.789185&spn=0.005194%2C0.010568&iwloc=0004de665ebea73e2c4b8&mid=1viyZhqtEarcpsBeyR-zqD5yIoBs&z=16" target="_blank">
+                    <a href="https://www.google.com/maps/d/u/0/viewer?msa=0&ll=-7.258062007495857%2C112.789185&spn=0.005194%2C0.010568&iwloc=0004de665ebea73e2c4b8&mid=1viyZhqtEarcpsBeyR-zqD5yIoBs&z=16"
+                        target="_blank">
                         <img src="../image/maps-um-surabaya.png" alt="" class="img-fluid mt-3">
                     </a>
                 </div>
@@ -474,7 +511,9 @@
     <!-- END : FOOTER -->
 
 
-    <script src=" https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js " integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM " crossorigin="anonymous "></script>
+    <script src=" https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js "
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM " crossorigin="anonymous ">
+    </script>
 </body>
 
 </html>
