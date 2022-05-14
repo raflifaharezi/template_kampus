@@ -13,3 +13,7 @@
 li .active {
     color: #FFCE00 !important;
 }
+
+.active-link {
+    color: #FFCE00 !important;
+}
