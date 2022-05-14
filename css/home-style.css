@@ -3,22 +3,6 @@ body {
     font-family: 'Inter', serif;
 }
 
-.background-primary {
-    background: #04A413;
-}
-
-.bg-navy {
-    background: #073C64 !important;
-}
-
-.text-navy {
-    color: #073C64;
-}
-
-li .active {
-    color: #FFCE00 !important;
-}
-
 .img-bg {
     background-size: cover;
     background-image: url('../image/bg-image-kampus.png');
