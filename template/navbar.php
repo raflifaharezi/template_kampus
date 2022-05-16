@@ -43,7 +43,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-white" href="#">Galeri</a>
+                    <a class="nav-link text-white" href="galeri.php">Galeri</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white" href="#">Kontak</a>

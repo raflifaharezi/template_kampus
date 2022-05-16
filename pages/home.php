@@ -138,7 +138,7 @@
                     </div>
                 </div>
             </div>
-            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white btn-sm mt-4">Lihat
+            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white mt-4">Lihat
                 Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
         </div>
     </section>
@@ -250,8 +250,9 @@
                         </div>
                     </div>
                 </div>
-
             </div>
+            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white mt-4">Lihat
+                Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
         </div>
     </section>
     <!-- END : SECTION FIVE  -->
@@ -285,7 +286,7 @@
                     </div>
                 </div>
             </div>
-            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white btn-sm mt-4">Lihat
+            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white mt-4">Lihat
                 Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
         </div>
     </section>
