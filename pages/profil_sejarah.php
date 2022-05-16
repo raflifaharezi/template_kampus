@@ -73,20 +73,22 @@
                         Sejarah Singkat
                     </h1>
                     <div class="main-content">
-                        <p>Universitas Muhammadiyah Surabaya pada awalnya terdiri atas beberapa lembaga pendidikan
+                        <p style="text-align: justify;">Universitas Muhammadiyah Surabaya pada awalnya terdiri atas
+                            beberapa lembaga pendidikan
                             tinggi muhammadiyah, diantaranya Fakultas Ilmu Agama Jurusan Da’wah (FIAD) yang berdiri
                             sejak 15 September 1964, Fakultas Tarbiyah Surabaya
                             berdiri pada 1975, IKIP Muhammadiyah Surabaya berdiri pada 1980, Fakultas Syari’ah Surabaya
                             berdiri pada 1982, dan Institut Teknologi Muhammadiyah Surabaya berdiri pada 1983.
                         </p>
-                        <p>Tahun 2006 berdasarkan Keputusan Dirjen Dikti No. 006/D/T/2006 UM Surabaya diberikan izin
+                        <p style="text-align: justify;">Tahun 2006 berdasarkan Keputusan Dirjen Dikti No. 006/D/T/2006
+                            UM Surabaya diberikan izin
                             untuk menyelenggarakan Program Studi D3 Kebidanan. Berdasarkan terbitnya izin Prodi
                             tersebut, tahun 2006 program studi di bidang kesehatan
                             antara lain Program Studi D-3 Keperawatan, Akademi Analis Kesehatan, Program Studi Ilmu
                             Keseperawatan dan Program Studi D-3 Kebidanan menjadi satu fakultas dengan nama Fakultas
                             Ilmu Kesehatan (FIK).
                         </p>
-                        <p>
+                        <p style="text-align: justify;">
                             Pada tahun 2008 upaya Universitas Muhammadiyah Surabaya dalam mengembangkan pelayanan
                             kesehatan manusia secara komprehensif khusunya dalam menangani masalah psikologis manusia,
                             maka berdasarkan SK Dirjen Dikti No. 2001/D/T/2008 tanggal 25 Juni 2008 telah
@@ -94,7 +96,7 @@
                             Pendidikan Tinggi No. 1272/D/T/2009 tanggal 31 Juli 2009 berdiri Program Magister Pendidikan
                             Bahasa dan Sastra Indonesia (S-2).
                         </p>
-                        <p>
+                        <p style="text-align: justify;">
                             Semula Universitas Muhammadiyah Surabaya terdiri atas tiga fakultas, yaitu Fakultas Keguruan
                             dan Ilmu Pendidikan sebagai pengembangan dari IKIP Muhammadiyah Surabaya, Fakultas Teknik
                             sebagai pengembangan dari Institut Teknologi Muhammadiyah Surabaya,
@@ -104,7 +106,7 @@
                             Fakultas Tarbiyah dan Fakultas Syari’ah berinduk ke UMSurabaya, dan ketiganya tergabung
                             dalam Fakultas Agama Islam (FAI).
                         </p>
-                        <p>
+                        <p style="text-align: justify;">
                             Selanjutnya pada 1992 Pimpinan Pusat Muhammadiyah Majelis Pembina Kesehatan melalui Surat
                             No.:IV.B/4.a/220/1992 tanggal 14 Desember 1992 mengajukan Permohonan Pendirian Pendidikan
                             Ahli Madya Kesehatan di lingkungan Muhammadiyah/Aisyiyah kepada Sekretaris
@@ -118,7 +120,7 @@
                             (magister Studi Islam), dan berdasarkan SK Dj.II/363/2004 telah berdiri Program Studi
                             Magister Pendidikan Islam dari Kementerian Agama.
                         </p>
-                        <p>
+                        <p style="text-align: justify;">
                             Pada tanggal 24 Agustus 2005 Universitas Muhammadiyah Surabaya mendapatkan rekomendasi dari
                             Badan Pengembangan dan Pemberdayaan Sumber Daya Manusia (BPPSDM) Departemen Kesehatan RI No.
                             H.K.0312.4.1.03259 untuk pendirian Program Studi Ilmu Keperawatan
@@ -128,7 +130,7 @@
                             Surabaya telah diberikan izin untuk menyelenggrarakan Program Studi IImu Keperawatan (SI)
                             Fakultas Ilmu Kesehatan.
                         </p>
-                        <p>
+                        <p style="text-align: justify;">
                             Tahun 2006 berdasarkan Keputusan Dirjen Dikti No. 006/D/T/2006 UM Surabaya diberikan izin
                             untuk menyelenggarakan Program Studi D3 Kebidanan. Berdasarkan terbitnya izin Prodi
                             tersebut, tahun 2006 program studi di bidang kesehatan antara lain Program Studi

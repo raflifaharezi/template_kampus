@@ -77,18 +77,19 @@
                     </h1>
                     <div class="main-content d-flex justify-content-start ">
                         <img src="../image/icon-ceklis.svg"></img>
-                        <div class="ms-3">Seluruh jurusan/program studi tidak ada ujian negara (sama dengan PTN)
+                        <div class="ms-3" style="text-align: justify;">Seluruh jurusan/program studi tidak ada ujian
+                            negara (sama dengan PTN)
                         </div>
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             <strong>Terpercaya</strong> dalam penyelenggaraan Program Kuliah Karyawan dan Program Kelas
                             Sore/Malam, karena <strong>telah memenuhi
                                 dua syarat mutlak penyelenggaraan PKSM / P2K,</strong> yaitu :
                         </div>
                     </div>
-                    <ul class="ms-3 mt-2">
+                    <ul class="ms-3 mt-2" style="text-align: justify;">
                         <li>Penyelenggaraannya sesuai dengan norma dan kaidah akademik (sesuai dengan peraturan
                             perundang-undangan).</li>
                         <li>Penyelenggaraannya sesuai dengan tuntutan dunia kerja (kurikulum, waktu kuliah, jadwal
@@ -97,13 +98,13 @@
                     </ul>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             <strong>Disediakan beasiswa (tanpa ikatan) bagi yang benar-benar membutuhkan.</strong>
                         </div>
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Bagi mahasiswa yang bekerja dengan sistem shift (pergantian waktu), tetap dapat mengikuti
                             kuliah dengan baik. Karena
                             sistem pendidikannya dilaksanakan secara profesional <strong>dengan mengintegrasikan Program
@@ -115,7 +116,7 @@
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Lulusan dan Mahasiswa Program Reguler serta Program Perkuliahan Karyawan (P2K) dan Program
                             Kelas Sore/Malam (PKSM) mempunyai STATUS, KUALITAS, HAK AKADEMIK, IJAZAH, dan GELAR YANG
                             SAMA
@@ -123,7 +124,7 @@
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Diselenggarakan oleh Perguruan Tinggi Terbaik yang selain telah TERAKREDITASI juga memiliki
                             jaringan yang luas di dunia
                             kerja. Walaupun kualitasnya terbaik, Universitas Muhamadiyah Surabaya tetap memiliki
@@ -134,7 +135,7 @@
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Kurikulum serta proses belajar-mengajarnya didesain sedemikian rupa menggunakan Sistem SKS
                             yang dilaksanakan
                             secara profesional dan sesuai untuk karyawan, sehingga mahasiswa yang sibuk bekerja
@@ -144,14 +145,14 @@
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Mahasiswa yang tidak lulus suatu mata kuliah, dapat mengulang di semester / tahun / periode
                             berikutnya <strong>tanpa dipungut biaya tambahan.</strong>
                         </div>
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Fasilitas lengkap, terdiri dari berbagai laboratorium (lengkap), studio, bengkel, tempat
                             ibadah, sarana olah raga, Computer Centre, kerjasama dengan perusahaan/lembaga/instansi,
                             dsb.
@@ -159,7 +160,7 @@
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Lokasi kampus sangat mudah dicapai, baik menggunakan kendaraan pribadi maupun kendaraan
                             umum.
                         </div>
@@ -172,13 +173,13 @@
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Tersedia penginapan/kost-kostan di sekitar Kampus Universitas Muhamadiyah Surabaya.
                         </div>
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             Lulusan Program S1 PKSM / P2K <strong>Universitas Muhamadiyah Surabaya</strong> dipersiapkan
                             menjadi Sarjana
                             (S1) sesuai
@@ -208,7 +209,7 @@
                     </div>
                     <div class="main-content d-flex mt-2 ">
                         <span><img src="../image/icon-ceklis.svg"></img></span>
-                        <div class="ms-3 ">
+                        <div class="ms-3 " style="text-align: justify;">
                             <strong>Kompetensi dasar Lulusan Program Kuliah Karyawan, dan Program Kelas Reguler Malam di
                                 Universitas Muhamadiyah Surabaya</strong> adalah memiliki kualitas dan integritas
                             intelektual;

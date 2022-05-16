@@ -71,26 +71,33 @@
                         Visi
                     </h1>
                     <div class="main-content">
-                        <P>UM Surabaya Sebagai Universitas Yang Unggul di Bidang Moralitas, Intelektualitas dan berjiwa
+                        <P style="text-align: justify;">UM Surabaya Sebagai Universitas Yang Unggul di Bidang Moralitas,
+                            Intelektualitas dan berjiwa
                             entereprenur</P>
                     </div>
                     <h1 class="heading-title mt-3 mb-3">
                         Misi
                     </h1>
-                    <P>Tahun 2006 berdasarkan Keputusan Dirjen Dikti No. 006/D/T/2006 UM Surabaya diberikan izin untuk
+                    <P style="text-align: justify;">Tahun 2006 berdasarkan Keputusan Dirjen Dikti No. 006/D/T/2006 UM
+                        Surabaya diberikan izin untuk
                         menyelenggarakan Program Studi D3 Kebidanan. Berdasarkan terbitnya izin Prodi tersebut, tahun
                         2006 program studi di bidang kesehatan antara lain Program Studi D-3 Keperawatan, Akademi Analis
                         Kesehatan, Program Studi Ilmu Keseperawatan dan Program Studi D-3 Kebidanan menjadi satu
                         fakultas dengan nama Fakultas Ilmu Kesehatan (FIK).
                     </P>
                     <ol>
-                        <li>Menyelenggarakan pendidikan dan pembelajaran yang memiliki keunggulan inovasi dan berjiwa
+                        <li style="text-align: justify;">Menyelenggarakan pendidikan dan pembelajaran yang memiliki
+                            keunggulan inovasi dan berjiwa
                             entrepreneur;</li>
-                        <li>Menyelenggarakan penelitian dan publikasi yang berkontribusi pada IPTEK dan inovasi</li>
-                        <li>Menyelenggarakan pengabdian kepada masyaraat berbasis riset dan inovasi.</li>
-                        <li>Berperan sebagai pusat pengembangan muhammadiyah, serta menyelenggarakan pembinaan dan
+                        <li style="text-align: justify;">Menyelenggarakan penelitian dan publikasi yang berkontribusi
+                            pada IPTEK dan inovasi</li>
+                        <li style="text-align: justify;">Menyelenggarakan pengabdian kepada masyaraat berbasis riset dan
+                            inovasi.</li>
+                        <li style="text-align: justify;">Berperan sebagai pusat pengembangan muhammadiyah, serta
+                            menyelenggarakan pembinaan dan
                             pengembangan civitas akademika berdasarkan dengan nilai Al Islam dan Kemuhammadiyahan.</li>
-                        <li>Menyelenggarakan kerjasama dan tata kelola dengan prinsip good governance.</li>
+                        <li style="text-align: justify;">Menyelenggarakan kerjasama dan tata kelola dengan prinsip good
+                            governance.</li>
                     </ol>
                 </div>
             </div>

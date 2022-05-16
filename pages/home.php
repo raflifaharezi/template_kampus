@@ -63,7 +63,8 @@
                         <div class="card-body pt-2">
                             <div class="d-flex justify-content-start align-items-center mb-1">
                                 <i class="fa-solid fa-caret-right text-navy me-3"></i>
-                                <a href="#" class="text-decoration-none text-dark">Beasiswa Pendidikan</a>
+                                <a href="https://edunitas.com/educampus/beasiswa" target="_blank"
+                                    class="text-decoration-none text-dark">Beasiswa Pendidikan</a>
                             </div>
                             <div class="d-flex justify-content-start align-items-center">
                                 <i class="fa-solid fa-caret-right text-navy me-3"></i>

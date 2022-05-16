@@ -74,21 +74,29 @@
                     </h1>
                     <div class="main-content">
                         <ol>
-                            <li>Menghasilkan lulusan yang beriman, berahlak, memiliki kompetensi profesional yang
+                            <li style="text-align: justify;">Menghasilkan lulusan yang beriman, berahlak, memiliki
+                                kompetensi profesional yang
                                 tinggi, serta unggul dalam inovasi dan berjiwa entrepreneu</li>
-                            <li>Menghasilkan produk penelitian dan publikasi yang berkontribusi pada IPTEK dan inovasi
+                            <li style="text-align: justify;">Menghasilkan produk penelitian dan publikasi yang
+                                berkontribusi pada IPTEK dan inovasi
                             </li>
-                            <li> Menghasilkan produk pengabdian kepada mayarakat yang berbasis riset dan inovasi</li>
-                            <li>Menghasilkan civitas akademika yang menjadi teladan, serta berpirnsip pada nilai Al
+                            <li style="text-align: justify;"> Menghasilkan produk pengabdian kepada mayarakat yang
+                                berbasis riset dan inovasi</li>
+                            <li style="text-align: justify;">Menghasilkan civitas akademika yang menjadi teladan, serta
+                                berpirnsip pada nilai Al
                                 Islam dana Kemuhammadiyahan melalui dakwah islam dengan menegakkan amar makruf nahi
                                 munkar</li>
-                            <li>Mewujudkan kerja sama dan pengelolaan universitas yang terencana, terorganisasi,
+                            <li style="text-align: justify;">Mewujudkan kerja sama dan pengelolaan universitas yang
+                                terencana, terorganisasi,
                                 produktif dan berkelanjutan Nilai yang dikembangkan Akhlakul karimah, Kebangsaan dan
                                 Keteladanan.</li>
-                            <li>Budaya riset, inovasi, dan penerapan teknologi yang diabdikan bagi kemaslahatan umat.
+                            <li style="text-align: justify;">Budaya riset, inovasi, dan penerapan teknologi yang
+                                diabdikan bagi kemaslahatan umat.
                             </li>
-                            <li>Tanggap dan tanggung jawab untuk meningkatkan pelayanan kepada masyarakat</li>
-                            <li>Penguatan sivitas akademika sebagai warga negara dan warga dunia yang mampu
+                            <li style="text-align: justify;">Tanggap dan tanggung jawab untuk meningkatkan pelayanan
+                                kepada masyarakat</li>
+                            <li style="text-align: justify;">Penguatan sivitas akademika sebagai warga negara dan warga
+                                dunia yang mampu
                                 mengantisipasi perubahan yang cepat, dan berpandangan global</li>
                         </ol>
                     </div>

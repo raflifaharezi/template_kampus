@@ -37,9 +37,11 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#">Penerimaan / Pendaftaran <br> Mahasiswa Baru</a></li>
                         <li><a class="dropdown-item" href="#">Download Brosur</a></li>
-                        <li><a class="dropdown-item" href="#">Beasiswa Pendidikan</a></li>
+                        <li><a class="dropdown-item" href="https://edunitas.com/educampus/beasiswa"
+                                target="_blank">Beasiswa Pendidikan</a></li>
                         <li><a class="dropdown-item" href="#">Biaya Kuliah</a></li>
-                        <li><a class="dropdown-item" href="#">Sistem Pendidikan dan <br>Status</a></li>
+                        <li><a class="dropdown-item" href="sistem_pendidikan.php">Sistem Pendidikan dan <br>Status</a>
+                        </li>
                     </ul>
                 </li>
                 <li class="nav-item">

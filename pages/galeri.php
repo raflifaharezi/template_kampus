@@ -46,30 +46,6 @@
     <!-- START SECTION : ONE -->
     <section class="pt-5 pb-5">
         <div class="container">
-            <!-- <div class="">
-                <ul class="nav nav-pills" id="myTab">
-                    <li class="nav-item">
-                        <a href="#home" class="nav-link active">Photo</a>
-                    </li>
-                    <li class="nav-item d-flex">
-                        <img src="../image/icon-gallery.svg" alt="">
-                        <a href="#profile" class="nav-link">Video</a>
-                    </li>
-                </ul>
-                <div class="tab-content mt-4">
-                    <div class="tab-pane fade show active" id="home">
-                        <h4 class="mt-2">Home tab content</h4>
-                        <p>Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher
-                        </p>
-                    </div>
-                    <div class="tab-pane fade" id="profile">
-                        <h4 class="mt-2">Profile tab content</h4>
-                        <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id.
-                        </p>
-                    </div>
-                </div>
-            </div> -->
-
             <div class="">
                 <ul class="nav nav-tabs" id="myTab">
                     <li class="nav-item">
