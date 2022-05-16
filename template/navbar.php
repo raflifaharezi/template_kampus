@@ -49,6 +49,8 @@
                     <a class="nav-link text-white" href="#">Kontak</a>
                 </li>
             </ul>
+            <a href="http://gillandgroup.co.id/_khusus_p2k.php?_i=pendaftaran-online&asal_kontak=www.um-surabaya.web.id"
+                class="btn bg-navy text-white ms-md-3 ms-0" target="_blank">Pendaftaran</a>
         </div>
     </div>
 </nav>

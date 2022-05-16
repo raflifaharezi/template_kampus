@@ -106,6 +106,30 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="row mt-5">
+                            <div class="col-md-3 mt-3 mt-md-0">
+                                <div class="card border-0">
+                                    <img src="../image/galeri-um-surabaya-5.png" alt="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-md-3 mt-3 mt-md-0">
+                                <div class="card border-0">
+                                    <img src="../image/galeri-um-surabaya-6.png" alt="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-md-3 mt-3 mt-md-0">
+                                <div class="card border-0">
+                                    <img src="../image/galeri-um-surabaya-7.png" alt="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-md-3 mt-3 mt-md-0">
+                                <div class="card border-0">
+                                    <img src="../image/galeri-um-surabaya-8.png" alt="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                     <div class="tab-pane fade" id="messages">
                         <h4 class="mt-2">Video tab content</h4>
