@@ -1,8 +1,3 @@
-<?php
-	$page = "Prodi";
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 

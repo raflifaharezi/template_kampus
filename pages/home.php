@@ -80,11 +80,14 @@
                         <div class="card-body pt-2 " style="height: '120px;'">
                             <div class="d-flex justify-content-start align-items-center mb-1">
                                 <i class="fa-solid fa-caret-right text-navy me-3"></i>
-                                <a href="#" class="text-decoration-none text-dark">Sistem Pendidikan dan Status</a>
+                                <a href="sistem-pendidikan.php" class="text-decoration-none text-dark">Sistem
+                                    Pendidikan
+                                    dan Status</a>
                             </div>
                             <div class="d-flex justify-content-start align-items-center">
                                 <i class="fa-solid fa-caret-right text-navy me-3"></i>
-                                <a href="#" class="text-decoration-none text-dark">Beban dan Masa Studi</a>
+                                <a href="beban-masa-studi.php" class="text-decoration-none text-dark">Beban dan Masa
+                                    Studi</a>
                             </div>
                         </div>
                     </div>
@@ -139,7 +142,8 @@
                     </div>
                 </div>
             </div>
-            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white mt-4">Lihat
+            <a href="program_studi.php"
+                class="btn text-decoration-none align-items-center btn bg-navy text-white mt-4">Lihat
                 Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
         </div>
     </section>
@@ -252,7 +256,7 @@
                     </div>
                 </div>
             </div>
-            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white mt-4">Lihat
+            <a href="" class="text-decoration-none align-items-center btn background-primary text-white mt-4">Lihat
                 Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
         </div>
     </section>
@@ -287,14 +291,14 @@
                     </div>
                 </div>
             </div>
-            <a href="" class="text-decoration-none align-items-center btn bg-navy text-white mt-4">Lihat
+            <a href="galeri.php" class="btn text-decoration-none align-items-center btn bg-navy text-white mt-4">Lihat
                 Selengkapnya <i class="fa-solid fa-arrow-right ms-3"></i></a>
         </div>
     </section>
     <!-- END : SECTION SIX  -->
 
     <!-- START : SECTION SEVEN  -->
-    <section class="">
+    <section class="mt-5 mb-5">
         <div class="container bg-light pt-5 ps-5 pe-5 pb-5 ">
             <div class="row ">
                 <div class="col-md-6 ">

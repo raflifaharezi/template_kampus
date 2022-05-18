@@ -1,8 +1,3 @@
-<?php
-	$page = "Prodi";
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,7 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <title>Galeri | Universitas Muhamadiyah Surabaya</title>
+    <title>Sistem Pendidikan | Universitas Muhamadiyah Surabaya</title>
 </head>
 
 <body>
@@ -164,6 +159,19 @@
                                 penelitian, atau mengikuti program studi di tingkat
                                 lebih lanjut
                             </p>
+                        </div>
+                    </div>
+                    <div class="mt-5 p-5 bg-navy" style="border-radius: 4px;">
+                        <div class="row align-items-center">
+                            <div class="col-md-8">
+                                <h2 class="text-white ">PMB ONLINE</h2>
+                                <div class="text-white">Penerimaan Mahasiswa Baru</div>
+                            </div>
+                            <div class="col-md-4 d-flex justify-content-end mt-4 mt-md-0">
+                                <a href="http://gillandgroup.co.id/_khusus_p2k.php?_i=pendaftaran-online&asal_kontak=www.um-surabaya.web.id"
+                                    target="_blank" class="btn btn-sm pt-3 pb-3 w-100 text-white"
+                                    style="background-color: #04A413;">Daftar Sekarang</a>
+                            </div>
                         </div>
                     </div>
                 </div>

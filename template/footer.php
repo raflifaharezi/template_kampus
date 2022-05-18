@@ -1,4 +1,4 @@
-<footer class="background-primary text-white text-lg-start">
+<footer class="background-primary mt-4 text-white text-lg-start">
     <div class="container p-4">
         <div class="row">
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
@@ -30,28 +30,17 @@
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                <h5 class="fs-5 fw-bolder">Links</h5>
+                <h5 class="fs-5 fw-bolder">Partner</h5>
                 <ul class="list-unstyled">
                     <li>
-                        <a href="#!" class="text-white text-decoration-none"><i
-                                class="fa-solid me-2 fa-angle-right"></i><Span>Beranda</Span></a>
+                        <a href="#" class="text-white text-decoration-none"><i
+                                class="fa-solid me-2 fa-angle-right"></i><Span>Edunitas</Span></a>
                     </li>
                     <li>
-                        <a href="#!" class="text-white text-decoration-none"><i
-                                class="fa-solid me-2 fa-angle-right"></i><Span>Program Studi</Span></a>
+                        <a href="program-studi.php" class="text-white text-decoration-none"><i
+                                class="fa-solid me-2 fa-angle-right"></i><Span>Edunovasi</Span></a>
                     </li>
-                    <li>
-                        <a href="#!" class="text-white text-decoration-none"><i
-                                class="fa-solid me-2 fa-angle-right"></i><Span>Biaya Kuliah</Span></a>
-                    </li>
-                    <li>
-                        <a href="#!" class="text-white text-decoration-none"><i
-                                class="fa-solid me-2 fa-angle-right"></i><Span>Galeri</Span></a>
-                    </li>
-                    <li>
-                        <a href="#!" class="text-white text-decoration-none"><i
-                                class="fa-solid me-2 fa-angle-right"></i><Span>Kontak</Span></a>
-                    </li>
+
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">

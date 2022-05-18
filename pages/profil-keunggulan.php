@@ -1,7 +1,3 @@
-<?php
-	$page = "Profile";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -51,22 +47,22 @@
                 <div class="col-md-4">
                     <nav>
                         <div class="nav-item ">
-                            <a href="profil_sejarah.php"
+                            <a href="profil-sejarah.php"
                                 class="nav-link text-dark border-top border-bottom pt-3 pb-3">Sejarah Singkat</a>
                         </div>
                         <div class="nav-item">
-                            <a href="profil_visi_misi.php" class="nav-link  text-dark border-bottom pt-3 pb-3">Visi dan
+                            <a href="profil-visi-misi.php" class="nav-link  text-dark border-bottom pt-3 pb-3">Visi dan
                                 Misi</a>
                         </div>
                         <div class="nav-item">
-                            <a href="profil_tujuan.php" class="nav-link text-dark border-bottom pt-3 pb-3">Tujuan</a>
+                            <a href="profil-tujuan.php" class="nav-link text-dark border-bottom pt-3 pb-3">Tujuan</a>
                         </div>
                         <div class="nav-item">
-                            <a href="profil_keunggulan.php"
+                            <a href="profil-keunggulan.php"
                                 class="nav-link active-link text-dark border-bottom pt-3 pb-3">Keunggulan</a>
                         </div>
                         <div class="nav-item">
-                            <a href="profil_struktur_organisasi.php"
+                            <a href="profil-struktur-organisasi.php"
                                 class="nav-link text-dark border-bottom pt-3 pb-3">Struktur Organisasi</a>
                         </div>
                     </nav>
